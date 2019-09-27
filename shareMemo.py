@@ -28,3 +28,4 @@ import time
 # file=
 # mp.sharedctypes.
 print('%s','asd')
+print(dhsak)
